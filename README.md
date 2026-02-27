@@ -29,22 +29,23 @@
 
 ## Common problem that may arise
 After installing Graphviz:
-1.First go to programs in your C drive
-2.Locate Graphviz folder
-3.there you can find the bin folder
-4.copy the path
-5.Now click Windows button
-6.go to enviroment variables
-7.go to user variables
-8.click on path 
-9.then edit
-10.then add new
-11.paste the path
-12.shut down the whole system
-13.restart and continue
+1. First go to programs in your C drive
+2. Locate Graphviz folder
+3. there you can find the bin folder
+4. copy the path
+5. Now click Windows button
+6. go to enviroment variables
+7. go to user variables
+8. click on path 
+9. then edit
+10. then add new
+11. paste the path
+12. shut down the whole system
+13. restart and continue
    
 
    
+
 
 
 
