@@ -25,7 +25,7 @@
 5. create one sample_srs.txt file where you can direct your given website description
    suppose for a example i have given "Online management system" in the repository sample_srs.txt file 
 7. Now execute all the cell after 6 given in the UML_generator.ipynb file
-6. you will get the desired output as diagram.puml and diagram,png file
+6. you will get the desired output as diagram.puml and diagram.png file
 
 ## Common problem that may arise
 After installing Graphviz:
@@ -45,6 +45,7 @@ After installing Graphviz:
    
 
    
+
 
 
 
