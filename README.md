@@ -23,12 +23,29 @@
    download it from the download button
    and keep the jar file inside the UML_generator using AI folder
 5. create one sample_srs.txt file where you can direct your given website description
-   suppose for a example i have given in the repository sample_srs.txt file 
+   suppose for a example i have given "Online management system" in the repository sample_srs.txt file 
 7. Now execute all the cell after 6 given in the UML_generator.ipynb file
-6. 
+6. you will get the desired output as diagram.puml and diagram,png file
+
+## Common problem that may arise
+After installing Graphviz:
+1.First go to programs in your C drive
+2.Locate Graphviz folder
+3.there you can find the bin folder
+4.copy the path
+5.Now click Windows button
+6.go to enviroment variables
+7.go to user variables
+8.click on path 
+9.then edit
+10.then add new
+11.paste the path
+12.shut down the whole system
+13.restart and continue
    
 
    
+
 
 
 
