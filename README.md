@@ -22,9 +22,14 @@
    <img width="1071" height="122" alt="Screenshot 2026-02-27 110112" src="https://github.com/user-attachments/assets/c9d94657-c21d-400a-878a-c23eb9b14558" /><br>
    download it from the download button
    and keep the jar file inside the UML_generator using AI folder
+5. create one sample_srs.txt file where you can direct your given website description
+   suppose for a example i have given in the repository sample_srs.txt file 
+7. Now execute all the cell after 6 given in the UML_generator.ipynb file
+6. 
    
 
    
+
 
 
 
