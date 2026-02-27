@@ -1,0 +1,18 @@
+@startuml
+
+class Customers
+class Products
+class Product
+class Entities
+class Admins
+class Orders
+class Category
+class System
+class Payment
+class Order
+
+Customers --> Products : purchase
+Admins --> Orders : monitor
+Order --> Products : contains
+
+@enduml
